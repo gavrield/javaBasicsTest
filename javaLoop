@@ -1,4 +1,4 @@
-Int[] are = new int[10];
+Int[] arr = new int[10];
 for(int i = 0; i < 10; i++){
-    art[i] = i*i;
+    arr[i] = i*i;
 }
